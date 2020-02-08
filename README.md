@@ -2,8 +2,6 @@
 
 Módulo para Terraform que gerencia simples regras de firewall.
 
-These types of resources are supported:
-
 ## Terraform versão
 
 Terraform > 0.12.19
