@@ -1,4 +1,3 @@
-# AWS VPC Terraform module
 # Google Firewall Terraform module
 
 Módulo para Terraform que gerencia simples regras de firewall.
