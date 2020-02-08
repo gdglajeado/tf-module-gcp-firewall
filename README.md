@@ -14,7 +14,7 @@ Esta definição encontra-se no arquivo `versions.tf`
 
 ```hcl
 module "firewall" {
-  source = "git@github.com/gdglajeado/tf-module-gcp-firewall?ref=v1.0"
+  source = "git@github.com/gdglajeado/tf-module-gcp-firewall.git?ref=v1.0"
 
   name          = "rundeck"
   network       = module.network.self_link
